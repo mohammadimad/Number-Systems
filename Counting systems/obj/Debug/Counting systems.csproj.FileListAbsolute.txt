@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\Counting systems\bin\Debug\Counting systems.exe.config
+C:\Users\HP\source\repos\Counting systems\bin\Debug\Counting systems.exe
+C:\Users\HP\source\repos\Counting systems\bin\Debug\Counting systems.pdb
+C:\Users\HP\source\repos\Counting systems\obj\Debug\Counting systems.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Counting systems\obj\Debug\Counting_systems.Form1.resources
+C:\Users\HP\source\repos\Counting systems\obj\Debug\Counting_systems.Properties.Resources.resources
+C:\Users\HP\source\repos\Counting systems\obj\Debug\Counting systems.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Counting systems\obj\Debug\Counting systems.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Counting systems\obj\Debug\Counting systems.exe
+C:\Users\HP\source\repos\Counting systems\obj\Debug\Counting systems.pdb
