@@ -60,7 +60,7 @@ namespace Counting_systems
             this.txtNumber.Name = "txtNumber";
             this.txtNumber.ReadOnly = true;
             this.txtNumber.Size = new System.Drawing.Size(439, 37);
-            this.txtNumber.TabIndex = 1;
+            this.txtNumber.TabIndex = 3;
             // 
             // lblTo
             // 
@@ -104,7 +104,7 @@ namespace Counting_systems
             this.FromComboBox.Location = new System.Drawing.Point(507, 74);
             this.FromComboBox.Name = "FromComboBox";
             this.FromComboBox.Size = new System.Drawing.Size(165, 21);
-            this.FromComboBox.TabIndex = 5;
+            this.FromComboBox.TabIndex = 0;
             this.FromComboBox.SelectedIndexChanged += new System.EventHandler(this.comboBox1_SelectedIndexChanged);
             // 
             // ToComboBox
@@ -118,7 +118,7 @@ namespace Counting_systems
             this.ToComboBox.Location = new System.Drawing.Point(12, 74);
             this.ToComboBox.Name = "ToComboBox";
             this.ToComboBox.Size = new System.Drawing.Size(165, 21);
-            this.ToComboBox.TabIndex = 6;
+            this.ToComboBox.TabIndex = 1;
             this.ToComboBox.SelectedIndexChanged += new System.EventHandler(this.comboBox2_SelectedIndexChanged);
             // 
             // btnSwap
@@ -128,7 +128,7 @@ namespace Counting_systems
             this.btnSwap.Location = new System.Drawing.Point(306, 36);
             this.btnSwap.Name = "btnSwap";
             this.btnSwap.Size = new System.Drawing.Size(107, 85);
-            this.btnSwap.TabIndex = 7;
+            this.btnSwap.TabIndex = 2;
             this.btnSwap.Text = "Swap";
             this.btnSwap.UseVisualStyleBackColor = false;
             this.btnSwap.Click += new System.EventHandler(this.btnSwap_Click);
@@ -139,7 +139,7 @@ namespace Counting_systems
             this.btnClose.Location = new System.Drawing.Point(326, 357);
             this.btnClose.Name = "btnClose";
             this.btnClose.Size = new System.Drawing.Size(135, 61);
-            this.btnClose.TabIndex = 8;
+            this.btnClose.TabIndex = 6;
             this.btnClose.Text = "Close";
             this.btnClose.UseVisualStyleBackColor = true;
             this.btnClose.Click += new System.EventHandler(this.btnClose_Click);
@@ -150,7 +150,7 @@ namespace Counting_systems
             this.btnRestart.Location = new System.Drawing.Point(495, 357);
             this.btnRestart.Name = "btnRestart";
             this.btnRestart.Size = new System.Drawing.Size(135, 61);
-            this.btnRestart.TabIndex = 9;
+            this.btnRestart.TabIndex = 5;
             this.btnRestart.Text = "Restart";
             this.btnRestart.UseVisualStyleBackColor = true;
             this.btnRestart.Click += new System.EventHandler(this.btnRestart_Click);
@@ -183,7 +183,7 @@ namespace Counting_systems
             this.Controls.Add(this.txtNumber);
             this.Controls.Add(this.txtResult);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Number System";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
